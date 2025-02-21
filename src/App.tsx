@@ -9,7 +9,7 @@ function App() {
           className="h-[40vmin] pointer-events-none animate-[spin_20s_linear_infinite]"
           alt="logo"
         />
-        <p className="text-[#7B42BC] font-bold">THIS IS MY SITEEEE 🎉</p>
+        <p className="text-[#7B42BC] font-bold">herro 🎉</p>
       </header>
     </div>
   );
